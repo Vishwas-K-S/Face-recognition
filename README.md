@@ -15,4 +15,6 @@ install opencv:
 <pre>    pip install opencv-python</pre>
 install face_recognition:
 <pre>    pip install face_recognition</pre>
-or visit [here](https://pypi.org/project/face-recognition/)
+or visit [here](https://pypi.org/project/face-recognition/)\
+install numpy:
+<pre>    pip install numpy</pre>
